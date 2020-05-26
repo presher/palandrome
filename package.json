@@ -1,5 +1,5 @@
 {
-  "name": "palandrome",
+  "name": "number_word_palindrome",
   "version": "1.0.0",
   "description": "Determine if a number or a word is the same forwards and backwards. Example 909",
   "main": "index.js",
