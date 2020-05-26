@@ -1,0 +1,22 @@
+{
+  "name": "palandrome",
+  "version": "1.0.0",
+  "description": "Determine if a number or a word is the same forwards and backwards. Example 909",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/presher/palandrome.git"
+  },
+  "keywords": [
+    "palandrome"
+  ],
+  "author": "Jason Presher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/presher/palandrome/issues"
+  },
+  "homepage": "https://github.com/presher/palandrome#readme"
+}
